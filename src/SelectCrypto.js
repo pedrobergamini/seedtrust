@@ -13,7 +13,7 @@ class SelectCrypto extends Component {
     componentDidMount(){
         setTimeout(()=>{
             this.setState({thankyouPage:true});
-        }, 5000);
+        }, 25000);
     }
 
 
